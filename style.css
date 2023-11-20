@@ -45,3 +45,8 @@
     border: none;
     box-shadow: 5px 5px 10px lightgrey ;
 }
+
+.card-footer{
+    border: none;
+    background-color: white;
+}
