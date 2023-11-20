@@ -50,3 +50,11 @@
     border: none;
     background-color: white;
 }
+
+#subscribe{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+}
